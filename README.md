@@ -31,10 +31,7 @@
 ---
 
 ### 📫 Connect With Me  
-- 💼 LinkedIn: [Add your link]  
-- 📧 Email: [Add your email]  
 
----
 
 ### ⚡ Fun Fact  
 I love converting complex data into **simple & beautiful dashboards** 😎
